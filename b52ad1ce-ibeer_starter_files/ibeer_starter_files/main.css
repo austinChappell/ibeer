@@ -28,7 +28,7 @@ img{
     display: block;
 }
 .wrapper{
-    width: 1000px;
+    max-width: 1000px;
 
     /*
         TODO:
